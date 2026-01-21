@@ -4,6 +4,14 @@
 
 We bring together **tutorials, open-source code, research projects, and papers** to explore how autonomous and multimodal GeoAI systems can advance spatial thinking, Earth observation, and AI-driven science.
 
+**We welcome contributors at all levels to join us, share ideas, build openly, and collectively shape the future of autonomous GeoAI for science.**
+
+<p align="center">
+  <img src="../camus.jpg" width="600" alt="Albert Camus quote">
+</p>
+
+
+
 ---
 
 ## 🧭 What We Care About
