@@ -7,7 +7,7 @@ We bring together **tutorials, open-source code, research projects, and papers**
 **We welcome contributors at all levels to join us, share ideas, build openly, and collectively shape the future of autonomous GeoAI for science.**
 
 <p align="center">
-  <img src="../GPT-vesion.png" width="600" alt="Albert Camus quote">
+  <img src="../GPT-vesion.png" width="500" alt="Albert Camus quote">
 </p>
 
 
