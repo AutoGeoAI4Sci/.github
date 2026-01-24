@@ -10,7 +10,9 @@ We bring together **tutorials, open-source code, research projects, and papers**
   <img src="../gemini-version.jpg" width="680" alt="Albert Camus quote">
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Autonomous+GeoAI+for+Science;Agents+%7C+Multimodal+GeoAI+%7C+Spatial+Intelligence;Open+Research+%7C+Reproducible+Workflows+%7C+Community" />
+</p>
 
 ---
 
