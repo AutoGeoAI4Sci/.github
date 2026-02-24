@@ -44,29 +44,6 @@ Across our repositories, you’ll find:
 Our central hub repository 👉 **`AutoGeoAI4Sci`** is a great place to start.
 
 ---
-
-## 🤝 Get Involved
-
-We warmly welcome contributions and collaboration! You can:
-
-- ⭐ Explore and star repositories you find useful  
-- 🐛 Open issues for questions, ideas, or research discussions  
-- 🔧 Submit pull requests with code, tutorials, or documentation  
-- 💬 Start conversations around GeoAI, AI4Science, and spatial intelligence  
-
-Please check the contribution guidelines in each repository for details.
-
----
-
-## 📖 Citation & Acknowledgment
-
-If you use resources from this organization in your research, please cite the corresponding papers or repositories.  
-A general citation for the **AutonomousGeoAI4Science** initiative will be provided as the project grows.
-
----
-
-## 🌟 Final Note
-
 This organization is built with curiosity, openness, and a love for both **science and spatial thinking**.  
 We hope it becomes a place where ideas grow, code is shared, and GeoAI moves forward — together 🚀
 
